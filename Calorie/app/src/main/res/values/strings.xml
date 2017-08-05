@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Calorie</string>
+    <string name="query_string">Search</string>
+</resources>
